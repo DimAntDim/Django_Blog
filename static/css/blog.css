@@ -83,7 +83,7 @@ input[type=submit] {
     padding:10px;
 }
 .comment:nth-child(even) {
-    background:#efefef;
+    background:#ffffff;
 }
 .comment .info {
     font-weight:bold;
